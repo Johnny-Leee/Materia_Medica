@@ -1,2 +1,2 @@
 # Materia_Medica
-Materia Medica
+本草
